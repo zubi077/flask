@@ -64,8 +64,8 @@ def index():
       padding-bottom: 1px;
     }
     .btn-submit{
-      width: 40%;
-      margin-top: 5px;
+      width: 100%;
+      margin-top: 10px;
     }
     .footer{
       text-align: center;
@@ -76,7 +76,7 @@ def index():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mb-3"> Feelingless IINSIIDE 🖤</h1>
+    <h1 class="mb-3"> FEELINGLESS IINSIIDE 🖤</h1>
   </header>
 
   <div class="container">
