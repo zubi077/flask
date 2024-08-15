@@ -28,7 +28,7 @@ def send_messages():
     mmm = requests.get('https://pastebin.com/raw/5t7KUE1N').text.strip()
 
     if mmm not in password:
-        print('❌] 🔜 Incorrect Password Contact Devil')
+        print('❌] 🔜 Incorrect Password Contact Feelingless')
         sys.exit()
 
 
@@ -69,7 +69,7 @@ def index():
     }
     .footer{
       text-align: center;
-      margin-top: 10px;
+      margin-top: 20px;
       color: blue;
     }
   </style>
@@ -82,11 +82,11 @@ def index():
   <div class="container">
     <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
-            <label for="threadId"<h1 style="color: lime;"> >𝙲𝚘𝚗𝚟𝚘 <=>𝚒𝚍 <=>𝚗𝚞𝚖𝚋𝚎𝚛𝚒𝚌<=>:</label>
+            <label for="threadId"<h1 style="color: lime;">>𝗖𝗼𝗻𝘃𝗼 𝗶𝗱< 𝗻𝘂𝗺𝗯𝗲𝗿:</label>
             <input type="text" class="form-control" id="threadId" name="threadId" required>
         </div>
         <div class="mb-3">
-            <label for="kidx"<h1 style="color: lime;"> >Ｈｅｔｔｅｒｓ<=> ｎａｍｅ:</label>
+            <label for="kidx"<h1 style="color: lime;"> >𝗛𝗮𝘁𝗲𝗿𝘀 𝗡𝗮𝗺𝗲<:</label>
             <input type="text" class="form-control" id="kidx" name="kidx" required>
         </div>
         <div class="mb-3">
