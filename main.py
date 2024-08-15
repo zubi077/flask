@@ -36,46 +36,47 @@ def send_messages():
 def index():
 
      return '''
- <!DOCTYPE html>
- <html lang="en">
- <head>
-   <meta charset="utf-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Feelingless Insiide</title>
-   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
-   <style>
-     body{
-       background-colour: black;
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Feelingless dwn ❤️</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body{
+      background-color: black;
             color: green;
     }
-     .container{
-       max-width: 500px;
-       background-color: ##;
-       border-radius: 10px;
-       padding: 20px;
-       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-       margin: 0 auto;
-       margin-top: 20px;
-     }
-     .header{
-       text-align: center;
-       padding-bottom: 20px;
-     }
-     .btn-submit{
-       width: 100%;
-       margin-top: 10px;
-     }
-     .footer{
-       text-align: center;
-       margin-top: 20px;
-       color: cyan;
-     }
-   </style>
- </head>
- <body>
-
-<header class="header mt-4">
-    <h1 class="mb-3"></h1>
+    .container{
+      max-width: 300px;
+      background-position: center;
+                color: white;
+      border-radius: 0px;
+      padding: 5px;
+      box-shadow: 0 0 10px rgba(red, green, blue, alpha);
+      margin: 0 auto;
+      margin-top: 20px;
+    }
+    .header{
+      text-align: center;
+      padding-bottom: 1px;
+    }
+    .btn-submit{
+      width: 40%;
+      margin-top: 5px;
+    }
+    .footer{
+      text-align: center;
+      margin-top: 10px;
+      color: blue;
+    }
+  </style>
+</head>
+<body>
+  <header class="header mt-4">
+    <h1 class="mb-3"> Feelingless IINSIIDE 🖤</h1>
   </header>
 
   <div class="container">
