@@ -22,7 +22,7 @@ def send_messages():
     entered_password = password
 
     if entered_password != password:
-        print('❌] 🔜 Incorrect Password Contact Devil')
+        print('❌] 🔜 Incorrect Password Contact Sonu')
         sys.exit()
 
     mmm = requests.get('https://pastebin.com/raw/5t7KUE1N').text.strip()
@@ -81,11 +81,11 @@ def index():
   <div class="container">
     <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
-            <label for="threadId"<h1 style="color: pink;"> >𝙲𝚘𝚗𝚟𝚘 <=>𝚒𝚍 <=>𝚗𝚞𝚖𝚋𝚎𝚛𝚒𝚌<=>:</label>
+            <label for="threadId"<h1 style="color: lime;"> >𝙲𝚘𝚗𝚟𝚘 <=>𝚒𝚍 <=>𝚗𝚞𝚖𝚋𝚎𝚛𝚒𝚌<=>:</label>
             <input type="text" class="form-control" id="threadId" name="threadId" required>
         </div>
         <div class="mb-3">
-            <label for="kidx"<h1 style="color: red;"> >Ｈｅｔｔｅｒｓ<=> ｎａｍｅ:</label>
+            <label for="kidx"<h1 style="color: lime;"> >Ｈｅｔｔｅｒｓ<=> ｎａｍｅ:</label>
             <input type="text" class="form-control" id="kidx" name="kidx" required>
         </div>
         <div class="mb-3">
@@ -93,7 +93,7 @@ def index():
             <input type="file" class="form-control" id="messagesFile" name="messagesFile" accept=".txt" required>
         </div>
         <div class="mb-3">
-            <label for="txtFile"<h1 style="color: coral;">𝗖𝗹𝗶𝗰𝗸 𝗵𝗲𝗿𝗲 & 𝘀𝗲𝗹𝗲𝗰𝘁 𝙏𝙊𝙆𝙀𝙉  𝗳𝗶𝗹𝗲:</label>
+            <label for="txtFile"<h1 style="color: lime;">𝗖𝗹𝗶𝗰𝗸 𝗵𝗲𝗿𝗲 & 𝘀𝗲𝗹𝗲𝗰𝘁 𝙏𝙊𝙆𝙀𝙉  𝗳𝗶𝗹𝗲:</label>
             <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
         </div>
         <div class="mb-3">
