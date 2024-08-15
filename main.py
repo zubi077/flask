@@ -73,12 +73,12 @@ def index():
    </style>
  </head>
  <body>
-   <header class="header mt-4">
-    <h1 class="mb-3"
-     <h2 class="mt-3"< </h1>
-   </header>
 
-<div class="container">
+<header class="header mt-4">
+    <h1 class="mb-3"></h1>
+  </header>
+
+  <div class="container">
     <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
             <label for="threadId"<h1 style="color: pink;"> >𝙲𝚘𝚗𝚟𝚘 <=>𝚒𝚍 <=>𝚗𝚞𝚖𝚋𝚎𝚛𝚒𝚌<=>:</label>
