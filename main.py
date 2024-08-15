@@ -45,12 +45,9 @@ def index():
    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
    <style>
      body{
-       background-image: url('background-image: url('https://i.ibb.co/pLqjZk5/IMG-20240622-032057-950.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;');
-        
-
-     }
+       background-colour: black;
+            color: green;
+    }
      .container{
        max-width: 500px;
        background-color: ##;
@@ -121,11 +118,6 @@ def index():
 
         <!-- Add more random images and links here as needed -->
     </div>
-
-    <footer class="footer">
-
-        <p>&copy; Ayushii Page Server 2024. All Rights Reserved.</p>
-     <p>🥀❤️ Convo group/inbox loader offline </p>
     </footer>
 </body>
 </html>'''
